@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Background
+comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ \r\n\ @author\:\ M.\ Kolling\r\n\ @version\:\ 0.1\r\n
+comment1.params=
+comment1.target=Background()
+comment1.text=\r\n\ Make\ the\ piano.\r\n\ CHANGE\ THE\ key\ and\ piano\ NAME\r\n\ CHANGE\ THE\ BACKGROUND\ \ \ \ \r\n
+comment2.params=
+comment2.target=void\ Set()
+comment3.params=
+comment3.target=void\ set()
+numComments=4
